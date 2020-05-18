@@ -4,6 +4,7 @@
   <artifactId>htmlpage</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
+  
   <name>htmlpage</name>
      <dependencies>
       <dependency>
@@ -37,7 +38,7 @@
  </dependencies>
   
   <build>
-    
+    <finalName>htmlpage</finalName>
     <pluginManagement>
       <plugins>
 
